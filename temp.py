@@ -1,3 +1,5 @@
+#Monitor CPU Temperature
+#By Andrzej Dawiec
 import time
 
 while True:
